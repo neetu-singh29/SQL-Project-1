@@ -1,2 +1,2 @@
-# SQL-Project-1
-This is my first project on GitHub.
+# Title:
+Designing a Comprehensive Database Solution for HerculesMotoCorp: Enhancing Operational Efficiency and Stakeholder Transparency
